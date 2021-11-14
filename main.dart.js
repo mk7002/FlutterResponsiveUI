@@ -23503,7 +23503,7 @@ p.push(q)}return n},
 auS(){var s=0,r=A.B(t.B5),q,p=2,o,n=[],m,l,k,j,i,h,g,f,e,d,c
 var $async$auS=A.x(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:p=4
-m=A.nn("http://demo1803158.mockable.io/flutter/home")
+m=A.nn("https://demo1803158.mockable.io/flutter/home")
 s=7
 return A.v(A.aGJ(m),$async$auS)
 case 7:l=b
@@ -23545,7 +23545,7 @@ return A.A($async$auS,r)},
 auU(){var s=0,r=A.B(t.DX),q,p=2,o,n=[],m,l,k,j,i,h,g,f,e,d,c
 var $async$auU=A.x(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:p=4
-m=A.nn("http://demo1803158.mockable.io/flutter/list")
+m=A.nn("https://demo1803158.mockable.io/flutter/list")
 s=7
 return A.v(A.aGJ(m),$async$auU)
 case 7:l=b
